@@ -1,0 +1,88 @@
+# Validation Report - congee-health-pairing
+
+Generated: 2026-06-02T15:35:10.561177
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Congee Health Pairing
+- ✓ Article word count OK: Beginner Congee Health Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Congee Health Pairing
+- ✓ Article word count OK: Beginner Congee Health Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Congee Health Pairing
+- ✓ Article word count OK: Beginner Congee Health Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Congee Health Pairing
+- ✓ Article word count OK: Common Mistakes in Beginner Congee Health Pairing
+- ✓ Article word count OK: Beginner Congee Health Pairing for Beginners
+- ✓ Article word count OK: Advanced Beginner Congee Health Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Congee Health Pairing
+- ✓ Article word count OK: Advanced Congee Health Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Congee Health Pairing
+- ✓ Article word count OK: Advanced Congee Health Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Congee Health Pairing
+- ✓ Article word count OK: Advanced Congee Health Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Congee Health Pairing
+- ✓ Article word count OK: Common Mistakes in Advanced Congee Health Pairing
+- ✓ Article word count OK: Advanced Congee Health Pairing for Beginners
+- ✓ Article word count OK: Advanced Advanced Congee Health Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Congee Health Pairing Tips
+- ✓ Article word count OK: Congee Health Pairing Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Congee Health Pairing Tips
+- ✓ Article word count OK: Congee Health Pairing Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Congee Health Pairing Tips
+- ✓ Article word count OK: Congee Health Pairing Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Congee Health Pairing Tips
+- ✓ Article word count OK: Common Mistakes in Congee Health Pairing Tips
+- ✓ Article word count OK: Congee Health Pairing Tips for Beginners
+- ✓ Article word count OK: Advanced Congee Health Pairing Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Congee Health Pairing History
+- ✓ Article word count OK: Congee Health Pairing History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Congee Health Pairing History
+- ✓ Article word count OK: Congee Health Pairing History Tips and Best Practices
+- ✓ Article word count OK: The History of Congee Health Pairing History
+- ✓ Article word count OK: Congee Health Pairing History in 2026: Current Trends
+- ✓ Article word count OK: Future of Congee Health Pairing History
+- ✓ Article word count OK: Common Mistakes in Congee Health Pairing History
+- ✓ Article word count OK: Congee Health Pairing History for Beginners
+- ✓ Article word count OK: Advanced Congee Health Pairing History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Congee Health Pairing
+- ✓ Article word count OK: Trending Congee Health Pairing: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Congee Health Pairing
+- ✓ Article word count OK: Trending Congee Health Pairing Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Congee Health Pairing
+- ✓ Article word count OK: Trending Congee Health Pairing in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Congee Health Pairing
+- ✓ Article word count OK: Common Mistakes in Trending Congee Health Pairing
+- ✓ Article word count OK: Trending Congee Health Pairing for Beginners
+- ✓ Article word count OK: Advanced Trending Congee Health Pairing Techniques
+- ✓ Article word count OK: The Ultimate Guide to Congee Health Pairing Tutorials
+- ✓ Article word count OK: Congee Health Pairing Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Congee Health Pairing Tutorials
+- ✓ Article word count OK: Congee Health Pairing Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Congee Health Pairing Tutorials
+- ✓ Article word count OK: Congee Health Pairing Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Congee Health Pairing Tutorials
+- ✓ Article word count OK: Common Mistakes in Congee Health Pairing Tutorials
+- ✓ Article word count OK: Congee Health Pairing Tutorials for Beginners
+- ✓ Article word count OK: Advanced Congee Health Pairing Tutorials Techniques
+- ✓ Ad configuration validated

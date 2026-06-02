@@ -1,0 +1,59 @@
+{
+  "siteId": "congee-health-pairing",
+  "generatedAt": "2026-06-02T15:35:10.561371",
+  "categories": [
+    "beginner-congee-health-pairing",
+    "advanced-congee-health-pairing",
+    "tips-congee-health-pairing",
+    "history-congee-health-pairing",
+    "trending-congee-health-pairing",
+    "tutorials-congee-health-pairing"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-congee-health-pairing",
+      "category_name": "Beginner Congee Health Pairing"
+    },
+    {
+      "category_slug": "advanced-congee-health-pairing",
+      "category_name": "Advanced Congee Health Pairing"
+    },
+    {
+      "category_slug": "tips-congee-health-pairing",
+      "category_name": "Congee Health Pairing Tips"
+    },
+    {
+      "category_slug": "history-congee-health-pairing",
+      "category_name": "Congee Health Pairing History"
+    },
+    {
+      "category_slug": "trending-congee-health-pairing",
+      "category_name": "Trending Congee Health Pairing"
+    },
+    {
+      "category_slug": "tutorials-congee-health-pairing",
+      "category_name": "Congee Health Pairing Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "congee-health-pairing",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Congee Health Pairing Central",
+    "articles_per_row": 3
+  }
+}
